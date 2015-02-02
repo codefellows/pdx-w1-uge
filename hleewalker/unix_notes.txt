@@ -1,0 +1,15 @@
+cd <path> Changes the working directory to <path>
+cd ..   Move up one level in the directory tree
+ls <path> Lists the directory content of <path>
+ls -l  lists the directory content in long form
+ls -a  lists the directory content including hidden files
+pwd Show the present working directory
+chmod  command used to change the permissions of a file (rwx)
+sudo <command>    run <command> with the authority of the root user
+cp <oldfile> <newfile>  copy <oldfile> to a file named <newfile>
+mkdir  creates a new directory
+mv   rename an exisiting file to a new file
+rm    remove a file
+touch  create a new file
+nano  open a file for text editing
+
