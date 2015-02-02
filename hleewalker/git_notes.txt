@@ -1,0 +1,12 @@
+git init  sets up a directory as a Git repository when the command is run in that directory
+git add <file> Adds any changes inside <file> to the staging area
+git commit -m '<message>' Commits the staging area to the repository with a <message>
+git branch  list all branches availble
+git branch <newbranch> creates a new branch called <newbranch>
+git checkout <newbranch>   switch to branch <newbranch>
+git clone <pathway>  downloads a clone of a repository to your computer
+git status  view the status of files in working and staging areas
+git remote add   add a new remote repository of your project
+git push  push your new branches and data to a remote repository
+git fetch  download new branches and data from a remote repository
+git pull  get new branches and date from a remote repository and merge them into the current branch
